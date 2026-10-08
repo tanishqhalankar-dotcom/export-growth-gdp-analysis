@@ -16,7 +16,3 @@ Macroeconomic data sourced from the **IMF World Economic Outlook (WEO)**, coveri
 
 * Volume of exports of goods (% change)
 * GDP at constant prices (% change)
-
-### Files
-
-* `Final_Report.pdf` — Full analysis, methodology, results, and discussion
